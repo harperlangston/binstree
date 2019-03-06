@@ -348,7 +348,7 @@ int getfirst(){
 
 
 /* According to user's choice, insert, delete or sort */
-int  main() { 
+void  main(int argc, char ** argv) { 
 	Tree * t;
 	int n;
 	int choice;
